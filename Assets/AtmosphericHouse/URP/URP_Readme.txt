@@ -10,7 +10,7 @@ How to fix?
 Change Decals_corner_clean, Decals_corner_worn materials to URP/Lit transparent shader whan baking lightning and change back to FinwardStudios/Decal after bake is done.
 
 
-Recommended UniversalRP-HighQuality.asset settings:
+Recommended Universal Render Pipeline.asset settings:
 
 Lightning:
 Main Light Shadow Resolution: 4096
