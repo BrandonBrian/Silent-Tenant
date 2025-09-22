@@ -1,2 +1,0 @@
-# Silent Tenant
-Horror Game
