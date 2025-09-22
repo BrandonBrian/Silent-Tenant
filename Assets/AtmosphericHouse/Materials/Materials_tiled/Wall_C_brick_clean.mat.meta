@@ -6,3 +6,10 @@ NativeFormatImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192712
+  packageName: Atmospheric House (Modular)
+  packageVersion: 
+  assetPath: Assets/AtmosphericHouse/Materials/Materials_tiled/Wall_C_brick_clean.mat
+  uploadId: 0

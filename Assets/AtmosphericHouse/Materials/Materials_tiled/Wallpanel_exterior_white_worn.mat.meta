@@ -6,3 +6,10 @@ NativeFormatImporter:
   userData: '{"GUIDArray":["74a72d53ded5c1443ab389a0289e8e0b","dbc97e248ccd86b438044e21c72edcc8","",""]}'
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192712
+  packageName: Atmospheric House (Modular)
+  packageVersion: 
+  assetPath: Assets/AtmosphericHouse/Materials/Materials_tiled/Wallpanel_exterior_white_worn.mat
+  uploadId: 0

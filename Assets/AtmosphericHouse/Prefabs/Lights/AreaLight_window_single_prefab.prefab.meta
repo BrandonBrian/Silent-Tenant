@@ -5,3 +5,10 @@ PrefabImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192712
+  packageName: Atmospheric House (Modular)
+  packageVersion: 
+  assetPath: Assets/AtmosphericHouse/Prefabs/Lights/AreaLight_window_single_prefab.prefab
+  uploadId: 0
